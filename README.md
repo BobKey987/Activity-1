@@ -1,2 +1,2 @@
-# Hello World
-This is a project for "Activity-1"
+## Feature Update Branch
+This section was added in the feature-update branch.
